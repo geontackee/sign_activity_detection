@@ -1,0 +1,8 @@
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# MediaPipe for Hand Tracking
+mediapipe>=0.10.0
